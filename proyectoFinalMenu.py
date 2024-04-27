@@ -1,4 +1,4 @@
-from streamlit import requirements
+from menutrabajos2parcial import requirements.txt
 import streamlit as st
 import pandas as pd
 import numpy as np
